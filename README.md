@@ -2,19 +2,15 @@
 <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
 
 [![](https://visitcount.itsvg.in/api?id=arazumut&label=%40arazumut&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
-<h1 align="center">Hi👋, I'm Kamil Umut Araz</h1>
+<h1 align="center">Hi👋, I'm Kerem Uras Tomak!</h1>
 <h3 align="center">Full Stack Developer & Computer Programmer</h3>
 
-- 📫 How to reach me *arazumut349@gmail.com*
+- 📫 How to reach me *gernkerem@gmail.com*
   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kamil-umut-araz-56712629a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serdar alkan" height="30" width="40" /></a>
-<a href="https://instagram.com/k.umutarazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.umutarazz" height="30" width="40" /></a>
-<a href="https://medium.com/@arazumut349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arazumut349" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/umutaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="umutaraz" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/keremuras_tomak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.umutarazz" height="30" width="40" /></a>
 
 
 <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies I Use:</h3>
